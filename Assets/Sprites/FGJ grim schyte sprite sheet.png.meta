@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: cdfa6d2b1899db34f8014e5f8594a577
-timeCreated: 1454167270
+timeCreated: 1454182381
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -68,49 +68,52 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 810
-        width: 180
+        width: 197
         height: 212
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 67, y: 92}
-        - {x: 34, y: 106}
-        - {x: 0, y: 106}
-        - {x: 2, y: 102}
-        - {x: -24, y: 65}
-        - {x: -90, y: -54}
-        - {x: -90, y: -69}
-        - {x: -14, y: -106}
-        - {x: 5, y: -106}
-        - {x: 90, y: -45}
-        - {x: 90, y: 44}
-        - {x: 61, y: 54}
+      - - {x: 58.5, y: 92}
+        - {x: 25.5, y: 106}
+        - {x: -8.5, y: 106}
+        - {x: -6.5, y: 102}
+        - {x: -32.5, y: 65}
+        - {x: -98.5, y: -54}
+        - {x: -98.5, y: -69}
+        - {x: -22.5, y: -106}
+        - {x: -3.5, y: -106}
+        - {x: 81.5, y: -45}
+        - {x: 81.5, y: 44}
+        - {x: 52.5, y: 54}
     - name: FGJ grim schyte sprite sheet_1
       rect:
         serializedVersion: 2
-        x: 238
+        x: 242
         y: 807
-        width: 180
+        width: 188
         height: 212
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 106}
-        - {x: -26, y: 103}
-        - {x: -87, y: -60}
-        - {x: -87, y: -85}
-        - {x: -42, y: -106}
-        - {x: -3, y: -106}
-        - {x: 85, y: -31}
-        - {x: 85, y: 78}
-        - {x: 39, y: 106}
-      - - {x: 1, y: 106}
-        - {x: 1, y: 103}
-        - {x: 7, y: 100}
-        - {x: 11, y: 100}
-        - {x: 11, y: 106}
+      - - {x: -52, y: 106}
+        - {x: -72, y: 97}
+        - {x: -94, y: -52}
+        - {x: -94, y: -78}
+        - {x: -88, y: -79}
+        - {x: -48, y: -49}
+        - {x: -36, y: -89}
+        - {x: -25, y: -106}
+        - {x: -11, y: -106}
+        - {x: 3, y: -77}
+        - {x: 77, y: -35}
+        - {x: 77, y: 106}
+      - - {x: -7, y: 106}
+        - {x: -7, y: 103}
+        - {x: -1, y: 100}
+        - {x: 3, y: 100}
+        - {x: 3, y: 106}
     - name: FGJ grim schyte sprite sheet_3
       rect:
         serializedVersion: 2
