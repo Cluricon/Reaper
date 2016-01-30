@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: a03a2a93a61398b4999fec72be8b79a4
+timeCreated: 1454149086
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FGJ grim run sprite sheet_0
+    21300002: FGJ grim run sprite sheet_1
+    21300004: FGJ grim run sprite sheet_2
+    21300006: FGJ grim run sprite sheet_3
+    21300008: FGJ grim run sprite sheet_4
+    21300010: FGJ grim run sprite sheet_5
+    21300012: FGJ grim run sprite sheet_6
+    21300014: FGJ grim run sprite sheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FGJ grim run sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2030
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FGJ grim run sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2024
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FGJ grim run sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1068
+        width: 812
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 203, y: -57}
+        - {x: 203, y: 141}
+        - {x: 179, y: 178}
+        - {x: 104, y: 240}
+        - {x: 1, y: 240}
+        - {x: -72, y: 91}
+        - {x: -203, y: -104}
+        - {x: -203, y: -125}
+        - {x: -192, y: -131}
+        - {x: -65, y: -204}
+        - {x: -60, y: -201}
+        - {x: -57, y: -199}
+        - {x: -57, y: -197}
+        - {x: -58, y: -205}
+        - {x: -56, y: -209}
+        - {x: -29, y: -240}
+        - {x: -1, y: -240}
+        - {x: 32, y: -172}
+        - {x: 141, y: -116}
+        - {x: 196, y: -97}
+      - - {x: -103, y: -170}
+        - {x: -104, y: -177}
+        - {x: -102, y: -179}
+        - {x: -101, y: -179}
+        - {x: -98, y: -176}
+        - {x: -98, y: -171}
+        - {x: -100, y: -169}
+      - - {x: -92, y: -109}
+        - {x: -101, y: -127}
+        - {x: -101, y: -145}
+        - {x: -94, y: -145}
+        - {x: -85, y: -116}
+        - {x: -85, y: -109}
+      - - {x: 60, y: 149}
+        - {x: 61, y: 146}
+        - {x: 64, y: 146}
+        - {x: 66, y: 148}
+        - {x: 65, y: 151}
+        - {x: 62, y: 151}
+      - - {x: 18, y: 237}
+        - {x: 18, y: 235}
+        - {x: 24, y: 230}
+        - {x: 26, y: 230}
+        - {x: 28, y: 231}
+        - {x: 28, y: 233}
+        - {x: 22, y: 239}
+        - {x: 19, y: 239}
+    - name: FGJ grim run sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1063
+        width: 818
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146.5, y: -113}
+        - {x: 191.5, y: -136}
+        - {x: 204.5, y: -76}
+        - {x: 204.5, y: 103}
+        - {x: 182.5, y: 102}
+        - {x: 93.5, y: 103}
+        - {x: 140.5, y: 240}
+        - {x: -10.5, y: 240}
+        - {x: -90.5, y: 44}
+        - {x: -204.5, y: -76}
+        - {x: -204.5, y: -143}
+        - {x: -118.5, y: -136}
+        - {x: -63.5, y: -224}
+        - {x: -37.5, y: -205}
+        - {x: -35.5, y: -201}
+        - {x: -35.5, y: -199}
+        - {x: -24.5, y: -239}
+        - {x: 8.5, y: -239}
+        - {x: 40.5, y: -192}
+        - {x: 43.5, y: -17}
+        - {x: 151.5, y: -43}
+      - - {x: -105.5, y: -167}
+        - {x: -105.5, y: -173}
+        - {x: -101.5, y: -173}
+        - {x: -98.5, y: -171}
+        - {x: -98.5, y: -164}
+        - {x: -100.5, y: -162}
+        - {x: -103.5, y: -163}
+      - - {x: -90.5, y: -103}
+        - {x: -102.5, y: -123}
+        - {x: -102.5, y: -140}
+        - {x: -97.5, y: -140}
+        - {x: -95.5, y: -138}
+        - {x: -85.5, y: -107}
+        - {x: -85.5, y: -103}
+      - - {x: 67.5, y: 147}
+        - {x: 70.5, y: 148}
+        - {x: 70.5, y: 151}
+        - {x: 67.5, y: 152}
+        - {x: 65.5, y: 150}
+      - - {x: 23.5, y: 238}
+        - {x: 23.5, y: 235}
+        - {x: 28.5, y: 231}
+        - {x: 30.5, y: 231}
+        - {x: 32.5, y: 232}
+        - {x: 32.5, y: 235}
+        - {x: 29.5, y: 239}
+        - {x: 25.5, y: 240}
+    - name: FGJ grim run sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1001
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FGJ grim run sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1001
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FGJ grim run sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 809
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -106.5}
+        - {x: 173, y: -98.5}
+        - {x: 203, y: -68.5}
+        - {x: 203, y: 98.5}
+        - {x: 187, y: 150.5}
+        - {x: 50, y: 94.5}
+        - {x: 117, y: 172.5}
+        - {x: 101, y: 239.5}
+        - {x: 34, y: 239.5}
+        - {x: -26, y: 194.5}
+        - {x: -112, y: -48.5}
+        - {x: -202, y: -127.5}
+        - {x: -202, y: -152.5}
+        - {x: -32, y: -239.5}
+        - {x: 2, y: -239.5}
+        - {x: 5, y: -238.5}
+        - {x: 35, y: -161.5}
+        - {x: 38, y: -23.5}
+        - {x: 154, y: 46.5}
+      - - {x: -79, y: -181.5}
+        - {x: -76, y: -184.5}
+        - {x: -73, y: -183.5}
+        - {x: -72, y: -176.5}
+        - {x: -75, y: -174.5}
+        - {x: -78, y: -177.5}
+      - - {x: -78, y: -150.5}
+        - {x: -72, y: -150.5}
+        - {x: -64, y: -133.5}
+        - {x: -64, y: -112.5}
+        - {x: -68, y: -112.5}
+        - {x: -74, y: -120.5}
+        - {x: -78, y: -141.5}
+      - - {x: 64, y: 149.5}
+        - {x: 65, y: 146.5}
+        - {x: 68, y: 146.5}
+        - {x: 70, y: 148.5}
+        - {x: 69, y: 151.5}
+        - {x: 66, y: 151.5}
+      - - {x: 24, y: 238.5}
+        - {x: 22, y: 236.5}
+        - {x: 22, y: 234.5}
+        - {x: 27, y: 230.5}
+        - {x: 31, y: 230.5}
+        - {x: 32, y: 232.5}
+        - {x: 32, y: 234.5}
+        - {x: 28, y: 237.5}
+    - name: FGJ grim run sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 40
+        width: 807
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186, y: -88.5}
+        - {x: 201, y: -49.5}
+        - {x: 202, y: -47.5}
+        - {x: 202, y: 95.5}
+        - {x: 178, y: 139.5}
+        - {x: 147, y: 108.5}
+        - {x: 146, y: 105.5}
+        - {x: 145, y: 100.5}
+        - {x: 97, y: 239.5}
+        - {x: 39, y: 239.5}
+        - {x: -38, y: 175.5}
+        - {x: -51, y: 121.5}
+        - {x: -202, y: -38.5}
+        - {x: -202, y: -229.5}
+        - {x: -179, y: -239.5}
+        - {x: -78, y: -239.5}
+        - {x: -54, y: -195.5}
+        - {x: -26, y: -239.5}
+        - {x: 0, y: -239.5}
+        - {x: 4, y: -238.5}
+        - {x: 31, y: -181.5}
+        - {x: 39, y: -11.5}
+        - {x: 151, y: -102.5}
+      - - {x: -86, y: -174.5}
+        - {x: -86, y: -181.5}
+        - {x: -84, y: -183.5}
+        - {x: -81, y: -183.5}
+        - {x: -80, y: -181.5}
+        - {x: -80, y: -175.5}
+        - {x: -83, y: -173.5}
+      - - {x: -84, y: -156.5}
+        - {x: -86, y: -158.5}
+        - {x: -86, y: -164.5}
+        - {x: -84, y: -166.5}
+        - {x: -83, y: -166.5}
+        - {x: -80, y: -163.5}
+        - {x: -80, y: -158.5}
+        - {x: -82, y: -156.5}
+      - - {x: 63, y: 149.5}
+        - {x: 64, y: 146.5}
+        - {x: 67, y: 146.5}
+        - {x: 69, y: 148.5}
+        - {x: 68, y: 151.5}
+        - {x: 65, y: 151.5}
+      - - {x: 23, y: 238.5}
+        - {x: 21, y: 236.5}
+        - {x: 21, y: 234.5}
+        - {x: 26, y: 230.5}
+        - {x: 30, y: 230.5}
+        - {x: 31, y: 232.5}
+        - {x: 31, y: 234.5}
+        - {x: 27, y: 237.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
