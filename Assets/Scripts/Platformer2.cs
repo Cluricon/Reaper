@@ -154,6 +154,8 @@ namespace UnityStandardAssets._2D
             {
                 m_Anim.SetBool("Attack", true);
                 GameObject.FindGameObjectWithTag("powerUp1").GetComponent<EnemyHealth>().SendMessage("SiphonTrue");
+                GameObject.FindGameObjectWithTag("powerUp2").GetComponent<EnemyHealth>().SendMessage("SiphonTrue");
+                //GameObject.FindGameObjectWithTag("powerUp3").GetComponent<EnemyHealth>().SendMessage("SiphonTrue");
                 siphon = true;
                 timerbool = true;
             }
@@ -163,6 +165,8 @@ namespace UnityStandardAssets._2D
                 if (timer > 1)
                 {
                     GameObject.FindGameObjectWithTag("powerUp1").GetComponent<EnemyHealth>().SendMessage("SiphonFalse");
+                    GameObject.FindGameObjectWithTag("powerUp2").GetComponent<EnemyHealth>().SendMessage("SiphonFalse");
+                    //GameObject.FindGameObjectWithTag("powerUp3").GetComponent<EnemyHealth>().SendMessage("SiphonFalse");
                     siphon = false;
                     timerbool = false;
                     timer = 0;
@@ -186,7 +190,7 @@ namespace UnityStandardAssets._2D
             theScale.x *= -1;
             transform.localScale = theScale;
         }
-        void OnTriggerEnter2D(Collider2D other)
+        void OnTriggerStay2D(Collider2D other)
         {
             if (other.tag == "powerUp1" && siphon==true)
             {
