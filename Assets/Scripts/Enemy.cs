@@ -9,25 +9,29 @@ public class Enemy : MonoBehaviour {
     private Rigidbody2D e_Rigidbody2D;
     public float show;
     private bool m_FacingRight = false;
+    //public float playertest;
+    //public float enemytest;
     //private int move = GameObject.FindGameObjectWithTag("Enemy").GetComponent<Rigidbody2D>().velocity.x;
 
 
 
     void Awake()
     {
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        player = GameObject.Find("Reaper").transform;
         e_Rigidbody2D = GetComponent<Rigidbody2D>();
     }
     // Use this for initialization
     void Start () {
 	
 	}
+   
 	
 	// Update is called once per frame
 	void Update () {
         show = e_Rigidbody2D.velocity.x;
 
-        
+        //playertest = GameObject.FindGameObjectWithTag("Player").transform.position.x;
+        //enemytest =transform.position.x;
 
     }
 

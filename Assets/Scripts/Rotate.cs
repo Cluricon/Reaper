@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Rotate : MonoBehaviour {
     public float speed = 1f;
+    public bool specialAttack;
 	// Use this for initialization
 	void Start () {
 	
@@ -12,4 +13,12 @@ public class Rotate : MonoBehaviour {
 	void Update () {
         transform.Rotate(new Vector3(0, 0, speed) * Time.deltaTime);
 	}
+    void True()
+    {
+        specialAttack = true;
+    }
+    void False()
+    {
+        specialAttack = false;
+    }
 }
